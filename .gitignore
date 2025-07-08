@@ -58,3 +58,5 @@ packages/
 
 /docker/traefik/certs
 !/docker/deploy/certs/.gitkeep
+
+license.xml
