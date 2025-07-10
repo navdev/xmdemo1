@@ -60,3 +60,6 @@ packages/
 !/docker/deploy/certs/.gitkeep
 
 license.xml
+
+.sitecore/.cache/
+.sitecore/package-cache/

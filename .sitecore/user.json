@@ -1,5 +1,17 @@
 {
-  "endpoints": {},
+  "endpoints": {
+    "default": {
+      "allowWrite": true,
+      "host": "https://cm.xmdemo1.local",
+      "authority": "https://id.xmdemo1.local",
+      "accessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjlENzYwOTJBMDc5NzhDQTBCMUQxOEQ4MzhFMjgyOEIxNDNBQjIzRjdSUzI1NiIsIng1dCI6Im5YWUpLZ2VYaktDeDBZMkRqaWdvc1VPcklfYyIsInR5cCI6ImF0K2p3dCJ9.eyJpc3MiOiJodHRwczovL2lkLnhtZGVtbzEubG9jYWwiLCJuYmYiOjE3NTE5ODgwMDAsImlhdCI6MTc1MTk4ODAwMCwiZXhwIjoxNzUxOTkxNjAwLCJhdWQiOlsic2l0ZWNvcmUucHJvZmlsZS5hcGkiLCJodHRwczovL2lkLnhtZGVtbzEubG9jYWwvcmVzb3VyY2VzIl0sInNjb3BlIjpbInNpdGVjb3JlLnByb2ZpbGUuYXBpIiwib2ZmbGluZV9hY2Nlc3MiXSwiYW1yIjpbInB3ZCJdLCJjbGllbnRfaWQiOiJEZXZpY2UiLCJzdWIiOiI0ODRhODZjMGU4MTI0MjdjODQyMTZlNjFhMzhjYzlhYiIsImF1dGhfdGltZSI6MTc1MTk4NjU3MywiaWRwIjoibG9jYWwiLCJuYW1lIjoic2l0ZWNvcmVcXEFkbWluIiwiZW1haWwiOiIiLCJodHRwOi8vd3d3LnNpdGVjb3JlLm5ldC9pZGVudGl0eS9jbGFpbXMvaXNBZG1pbiI6IlRydWUiLCJzaWQiOiIyODkwRDcyQkEzM0UxMDI5OUJDMEM1MDY1NDc0NTQ4RiIsImp0aSI6IkYwMDZBQ0UzNUJERjA2OUNBRTM3MjQ0NkEyRDE2RDM5In0.s8oWWA6QWdY5tRu4nI4P6VSMQrwCxycr_09t2h-v4ZVaWb-s410rsM9s_2FNzzSpf2X_sPhva8eysD-qPG0-_IqMh9WYw_udpYUt1DlI_UBx21JbT98rdCog_tZeZyoxkaAOkKazDcQ-PdB1kaI7Aw-G6cA_HsnpyflF9p6QeChAbeLckNh4ASbbIgFGMyaNyNdc5wQMo3sfA0fISHkg7nXe2VRJ--dJybMtMfyucrfQygLCKy0bqsfVTTI1He2x-IOKLe_2YTWnAlFzorPVBUOsXYeNmY_5Vx_tFTWZ792RT4SrtBxK4YnW8vyjhG-gH5NP1dodXSRBlw0_BmMZTg",
+      "refreshToken": "B93D7FEED83AABEBA903750B36EB3068A39717B5F5635233777BB9BFC6C2A6EC-1",
+      "expiresIn": 3600,
+      "lastUpdated": "2025-07-08T15:20:00.5218981Z",
+      "clientId": "Device",
+      "variables": {}
+    }
+  },
   "$schema": "./schemas/UserConfiguration.schema.json",
   "defaultEndpoint": "default"
 }

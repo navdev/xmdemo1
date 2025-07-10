@@ -1,0 +1,27 @@
+﻿---
+ID: "793dd243-9939-436a-b396-4ee52b7939ec"
+Parent: "49d3fa66-e522-411b-bed6-ad70d326a934"
+Template: "49d3fa66-e522-411b-bed6-ad70d326a934"
+Path: /sitecore/templates/Project/xmdemo1/Headless Tenant/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250706T122558Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d6e42eea-6b3e-45c8-b7f2-e8854f3908eb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250706T122558Z

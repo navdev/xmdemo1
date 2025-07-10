@@ -43,4 +43,3 @@ RUN C:\module\tools\Initialize-Content.ps1 -TargetPath C:\inetpub\wwwroot; `
 
 # Copy solution files
 COPY --from=solution \artifacts\sitecore\ .\
-COPY .  c:\inetpub\wwwroot\App_Config\Include\
